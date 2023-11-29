@@ -1,9 +1,9 @@
 # Python-05 : Fichiers-Modules-Fonctions
 
-Contexte :
+## Contexte :
 Se familiariser avec l’utilisation des fichiers et les Modules dans le langage Python.
 
-Mot clé (= notion à apprendre) :
+## Mot clé (= notion à apprendre) :
 1. Modules : En Python, un module est un fichier contenant du code Python. Il peut inclure des fonctions, des classes et des variables, et est souvent utilisé pour organiser et réutiliser du code.
 2. Bibliothèque : Une collection de modules. Une bibliothèque fournit des fonctionnalités supplémentaires non présentes dans le langage de base, comme des opérations mathématiques avancées, des interactions avec le système d'exploitation, etc.
 3. Importer : Le mot-clé import en Python est utilisé pour accéder au code contenu dans un autre module ou bibliothèque.
@@ -24,7 +24,7 @@ Problématique (forme de question, il peut y en avoir plusieurs)
 - Comment créer un module ?
 - Comment les modules facilitent les manipulations des données en python ?
 
-Hypothèses Vrai-Faux (à la fin)
+## Hypothèses Vrai-Faux (à la fin)
 1. Patrick : Toutes les bibliothèques sont utilisables gratuitement.
    - Plutôt Faux. Beaucoup de bibliothèques Python sont gratuites et open-source, mais certaines bibliothèques, en particulier celles destinées à un usage professionnel, peuvent être payantes.
 2. Hadjer : Une bibliothèque est un ensemble de modules.
@@ -62,7 +62,7 @@ Hypothèses Vrai-Faux (à la fin)
 18. On peut importer une librairie partiellement.
    - Vrai. En Python, il est possible
 
-Plan d’action :
+## Plan d’action :
 - Explorer les ressources
 - Définir les mots clés
 - Vérifier les hypothèses
